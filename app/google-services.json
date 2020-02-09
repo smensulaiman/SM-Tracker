@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785215540878",
+    "firebase_url": "https://sm-tracker-3e976.firebaseio.com",
+    "project_id": "sm-tracker-3e976",
+    "storage_bucket": "sm-tracker-3e976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785215540878:android:5d07134d1ef735ad3c43df",
+        "android_client_info": {
+          "package_name": "com.etattorit.smtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785215540878-dj57v9j22cooqgtm019bqmkmupplpahe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etattorit.smtracker",
+            "certificate_hash": "9b1e229ee107dc88e289d9cddae24c5b3d73d2cd"
+          }
+        },
+        {
+          "client_id": "785215540878-j4ojketrkg4hq1571ec5bs14lh3b4msm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A4SpyYFgxzpMa3CL79epIg6h1w42Nzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785215540878-j4ojketrkg4hq1571ec5bs14lh3b4msm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
